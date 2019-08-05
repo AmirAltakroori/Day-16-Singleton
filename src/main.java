@@ -27,5 +27,4 @@ public class main {
         // Create main form
         new MainForm();
     }
-
 }
